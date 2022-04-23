@@ -1,7 +1,7 @@
 package ui;
 
 /**
- * 010101010101010
+ * 1111111
  */
 public class Po {
 
